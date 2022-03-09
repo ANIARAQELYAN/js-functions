@@ -2,7 +2,6 @@ function isArray(value) {
     return Array.isArray(value);
 }
 
-
 function getDividesIntoFive(arr) {
     let newArray = [];
     if (isArray(arr)) {
